@@ -1,2 +1,2 @@
 # portafolio
-Portafolio desarrollador Full Stack
+Plantilla de portafolio para desarrollador Full Stack
